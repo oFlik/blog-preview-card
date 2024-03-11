@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-9wysGJ_H-V](https://www.frontendmentor.io/solutions/blog-preview-card-9wysGJ_H-V)
 - Live Site URL: [https://oflik.github.io/blog-preview-card/](https://oflik.github.io/blog-preview-card/)
 
 ## My process
